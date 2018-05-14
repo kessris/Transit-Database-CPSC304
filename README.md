@@ -7,4 +7,4 @@ Created a transit database using JDBC/Oracle, SQL in a team of 4
 
 # Screenshot
 
-(https://github.com/kessris/Transit-Database-CPSC304/blob/master/Untitled.png)
+![alt text](https://github.com/kessris/Transit-Database-CPSC304/blob/master/Untitled.png)
